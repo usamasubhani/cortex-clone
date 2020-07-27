@@ -46,7 +46,6 @@ function Hero() {
         </div>
         <div className="img-container">
           <img className="heroimg" src="https://www.cortexcopywriter.com/img/intro/Intro_Featured_Image_Empty.svg" />
-          {/* <img className="a" src="https://www.cortexcopywriter.com/img/intro/Intro_Front_Layer.svg" /> */}
           <img className="brain" ref={brain} src="https://www.cortexcopywriter.com/img/intro/Intro_Brain.svg" />
           
         </div>
